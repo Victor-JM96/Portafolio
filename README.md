@@ -38,3 +38,4 @@ icons@1.13.1/font/bootstrap-icons.min.css">
   <link rel="preconnect" 
 href="https://fonts.googleapis.com"> 
   <link rel="preconnect" href="https://fonts.gstatic.com" # Portafolio
+  
